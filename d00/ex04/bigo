@@ -1,0 +1,2 @@
+O(n * m) time, where n is the length of first string and m is length of second one
+O(1) space, since we only go through 1 pattern

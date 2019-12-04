@@ -1,0 +1,3 @@
+O(n * m) time, where n is the size of array and m is length of longest string
+O(n) space
+
