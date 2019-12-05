@@ -1,0 +1,2 @@
+O(n log(n)) time at best, O(n^2) time at worst (when list is already sorted), where n is number of elements in array
+O(1) space
