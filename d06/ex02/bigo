@@ -1,0 +1,3 @@
+O(2^n) time, where n is the number of games played
+2^n time because we are calculating all possibilities of winning or losing
+O(n) space b/c of recursive stacks

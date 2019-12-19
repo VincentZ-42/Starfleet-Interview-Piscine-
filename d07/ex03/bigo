@@ -1,0 +1,2 @@
+O(n) time, where n is the size of the array
+O(k) space, where k is the number of closest places to location

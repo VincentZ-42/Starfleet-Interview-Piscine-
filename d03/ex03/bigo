@@ -1,0 +1,3 @@
+O(n ^ 2) time, where n is the number of nodes (we are traversing the heap structure twice)
+O(1) space
+BFS/DFS recrusive hybrid....but mostly BFS recursive because we swap the neighbors in the level below before going deeper into each branch

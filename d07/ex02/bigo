@@ -1,0 +1,2 @@
+O(n) time, where n is the size of array
+O(n) space b/c recusive stack

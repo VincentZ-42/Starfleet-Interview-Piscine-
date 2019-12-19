@@ -1,0 +1,4 @@
+O(n log n) time, where n is the number of elements in arr
+O(n^2) time, if elements are not sorted
+O( log n) time, if elements are sorted
+O(n) space

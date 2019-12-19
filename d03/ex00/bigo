@@ -1,0 +1,4 @@
+O(n) time, where n is the count of the nodes
+O(1) space
+recursive DFS because we are traversing all left nodes before moving into right nodes
+we go all the way down one branch until NULL

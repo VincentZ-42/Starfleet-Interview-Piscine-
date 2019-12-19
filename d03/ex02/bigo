@@ -1,0 +1,5 @@
+We are doing LCA in n-ary tree
+O(n) time, where n is the number of elements in array
+O(n) space
+I believe this to be a Breadth first search, recursive.
+But it doesn't explore all neighbors before moving to the next level....
